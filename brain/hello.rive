@@ -1,0 +1,13 @@
+! version = 2.0
+
++ hello bot
+- Hello, human
+
++ what is the cloud
+- there are two types of cloud {weight=3}
+- clouds are in the sky {weight=5}
+- clouds are computers {weight=4}
+- i am a cloud
+
++ say something random
+- This {random}message|sentence|dog|car{/random} has a random word.
